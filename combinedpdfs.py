@@ -4,7 +4,7 @@
 
 import PyPDF2, os
 
-# Get all the PDF filenames.
+# Get all the PDF filenames in directory.
 pdfFiles = []
 for filename in os.listdir('.'):
     if filename.endswith('.pdf'):
