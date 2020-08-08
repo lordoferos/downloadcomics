@@ -24,7 +24,7 @@ for filename in pdfFiles:
         pdfWriter.addPage(pageObj)
 
 
-# Save the resulting PDF into a file like that
+# Save the resulting PDF into a file
 pdfOutput = open('allminutes4.pdf','wb')
 pdfWriter.write(pdfOutput)
 pdfOutput.close()
