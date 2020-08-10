@@ -1,2 +1,4 @@
 # downloadcomics
-Copied from Automate with Python Book
+A random collection of python projects
+
+Reference from the Automate The Boring Stuff with Python book
