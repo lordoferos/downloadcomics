@@ -1,0 +1,181 @@
+Selected information about each repository:
+
+Name: system-design-primer
+Owner: donnemartin
+Stars: 97794
+Repository: https://github.com/donnemartin/system-design-primer
+Description: Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
+Name: public-apis
+Owner: public-apis
+Stars: 85046
+Repository: https://github.com/public-apis/public-apis
+Description: A collective list of free APIs for use in software and web development.
+
+Name: awesome-python
+Owner: vinta
+Stars: 82909
+Repository: https://github.com/vinta/awesome-python
+Description: A curated list of awesome Python frameworks, libraries, software and resources
+
+Name: Python
+Owner: TheAlgorithms
+Stars: 75182
+Repository: https://github.com/TheAlgorithms/Python
+Description: All Algorithms implemented in Python
+
+Name: youtube-dl
+Owner: ytdl-org
+Stars: 66778
+Repository: https://github.com/ytdl-org/youtube-dl
+Description: Command-line program to download videos from YouTube.com and other video sites
+
+Name: models
+Owner: tensorflow
+Stars: 64117
+Repository: https://github.com/tensorflow/models
+Description: Models and examples built with TensorFlow
+
+Name: thefuck
+Owner: nvbn
+Stars: 53701
+Repository: https://github.com/nvbn/thefuck
+Description: Magnificent app which corrects your previous console command.
+
+Name: flask
+Owner: pallets
+Stars: 50564
+Repository: https://github.com/pallets/flask
+Description: The Python micro framework for building web applications.
+
+Name: django
+Owner: django
+Stars: 49667
+Repository: https://github.com/django/django
+Description: The Web framework for perfectionists with deadlines.
+
+Name: keras
+Owner: keras-team
+Stars: 48434
+Repository: https://github.com/keras-team/keras
+Description: Deep Learning for humans
+
+Name: httpie
+Owner: jakubroztocil
+Stars: 46841
+Repository: https://github.com/jakubroztocil/httpie
+Description: As easy as HTTPie /aitch-tee-tee-pie/  🥧 Modern command-line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
+
+Name: awesome-machine-learning
+Owner: josephmisiti
+Stars: 44865
+Repository: https://github.com/josephmisiti/awesome-machine-learning
+Description: A curated list of awesome Machine Learning frameworks, libraries and software.
+
+Name: ansible
+Owner: ansible
+Stars: 43325
+Repository: https://github.com/ansible/ansible
+Description: Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/
+
+Name: requests
+Owner: psf
+Stars: 42620
+Repository: https://github.com/psf/requests
+Description: A simple, yet elegant HTTP library.
+
+Name: scikit-learn
+Owner: scikit-learn
+Stars: 40906
+Repository: https://github.com/scikit-learn/scikit-learn
+Description: scikit-learn: machine learning in Python
+
+Name: big-list-of-naughty-strings
+Owner: minimaxir
+Stars: 37302
+Repository: https://github.com/minimaxir/big-list-of-naughty-strings
+Description: The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
+
+Name: scrapy
+Owner: scrapy
+Stars: 37294
+Repository: https://github.com/scrapy/scrapy
+Description: Scrapy, a fast high-level web crawling & scraping framework for Python.
+
+Name: face_recognition
+Owner: ageitgey
+Stars: 34393
+Repository: https://github.com/ageitgey/face_recognition
+Description: The world's simplest facial recognition api for Python and the command line
+
+Name: core
+Owner: home-assistant
+Stars: 33493
+Repository: https://github.com/home-assistant/core
+Description: :house_with_garden: Open source home automation that puts local control and privacy first
+
+Name: you-get
+Owner: soimort
+Stars: 33298
+Repository: https://github.com/soimort/you-get
+Description: :arrow_double_down: Dumb downloader that scrapes the web
+
+Name: shadowsocks
+Owner: shadowsocks
+Stars: 32651
+Repository: https://github.com/shadowsocks/shadowsocks
+Description: None
+
+Name: cpython
+Owner: python
+Stars: 31422
+Repository: https://github.com/python/cpython
+Description: The Python programming language
+
+Name: HelloGitHub
+Owner: 521xueweihan
+Stars: 30700
+Repository: https://github.com/521xueweihan/HelloGitHub
+Description: :octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目
+
+Name: faceswap
+Owner: deepfakes
+Stars: 30624
+Repository: https://github.com/deepfakes/faceswap
+Description: Deepfakes Software For All
+
+Name: XX-Net
+Owner: XX-net
+Stars: 30075
+Repository: https://github.com/XX-net/XX-Net
+Description: a web proxy tool
+
+Name: incubator-superset
+Owner: apache
+Stars: 28848
+Repository: https://github.com/apache/incubator-superset
+Description: Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
+
+Name: 100-Days-Of-ML-Code
+Owner: Avik-Jain
+Stars: 28727
+Repository: https://github.com/Avik-Jain/100-Days-Of-ML-Code
+Description: 100 Days of ML Coding
+
+Name: 12306
+Owner: testerSunshine
+Stars: 28425
+Repository: https://github.com/testerSunshine/12306
+Description: 12306智能刷票，订票
+
+Name: transformers
+Owner: huggingface
+Stars: 27985
+Repository: https://github.com/huggingface/transformers
+Description: 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
+
+Name: CppCoreGuidelines
+Owner: isocpp
+Stars: 27417
+Repository: https://github.com/isocpp/CppCoreGuidelines
+Description: The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
