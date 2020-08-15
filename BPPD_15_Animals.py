@@ -3,7 +3,7 @@
 
 # In[ ]:
 
-
+# Create Animal class
 class Animal:
     def __init__(self, Name="", Age=0, Type = ""):
         self.Name = Name
@@ -25,6 +25,8 @@ class Animal:
         return "{0} is a {1} aged {2}".format(self.Name,
                                               self.Type,
                                               self.Age)
+    
+ # Create Chicken, a subclass of animals
 class Chicken(Animal):
     def __init__(self, Name ="", Age=0):
         self.Name = Name
