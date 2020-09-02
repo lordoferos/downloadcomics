@@ -26,7 +26,7 @@ class Animal:
                                               self.Type,
                                               self.Age)
     
- # Create Chicken, a subclass of animals
+ # Create Chicken, a subclass of Animal
 class Chicken(Animal):
     def __init__(self, Name ="", Age=0):
         self.Name = Name
@@ -41,7 +41,7 @@ class Chicken(Animal):
         
 
 
-# In[ ]:
+
 
 
 
