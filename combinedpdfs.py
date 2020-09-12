@@ -5,7 +5,8 @@
 import PyPDF2, os
 
 # Get all the PDF filenames in directory.
-pdfFiles = []
+pdfFiles = [] # empty list
+
 for filename in os.listdir('.'):
     if filename.endswith('.pdf'):
         pdfFiles.append(filename)
@@ -28,4 +29,3 @@ for filename in pdfFiles:
 pdfOutput = open('allminutes4.pdf','wb')
 pdfWriter.write(pdfOutput)
 pdfOutput.close()
-
