@@ -36,7 +36,7 @@ class Chicken(Animal):
         print("Sorry, {0} will always be a {1}"
                 .format(self.Name, self.Type))
     def MakeSound(self):        
-        print("{0} says Cluck Cluck, Cluck!" .format(self.Name))
+        print("{0} says kwa kwa, kwaaa!" .format(self.Name))
             
         
 
